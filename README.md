@@ -89,9 +89,9 @@
 
 ## 6.CSDN博客地址
 
-1. 设计文档地址（http://t.csdn.cn/ZizyG）
+1. 设计文档地址（https://blog.csdn.net/weixin_54136758/article/details/125452801）
 
-2. 源项目文件地址（同源博客中的资源里）
+2. 源项目文件地址（https://download.csdn.net/download/weixin_54136758/86398943）
 
 ## 7.项目启动说明
 
