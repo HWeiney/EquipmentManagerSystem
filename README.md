@@ -26,15 +26,9 @@
 
 4. 设备仓库系统
 
-   <img src="C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20220620162157851.png" alt="image-20220620162157851" style="zoom:80%;" />
-
 ### c.创建数据库并连接√
 
 1. ## 创建User表√
-
-> 第一阶段完成
->
-> <img src="C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20220603170309748.png" alt="image-20220603170309748" style="zoom: 80%;" />
 
 # 三、功能设计
 
