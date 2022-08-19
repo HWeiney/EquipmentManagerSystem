@@ -1,7 +1,5 @@
 # 《设备管理系统》设计文档
 
-[TOC]
-
 # 一、项目介绍
 
 本项目是连接了MySql数据库（MariaDB数据库），采用Java-Swing技术，实现了GUI设计
@@ -64,8 +62,6 @@
 
 ## 2.实现设备购买界面√
 
-![image-20220605194226562](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20220605194226562.png)
-
 1. 功能需求
    - [x] 表格显示设备清单列表（设备号+设备名称+库存数量）
    - [x] 每次购买完成后，自动刷新订单编号(年月日+第n单)，并且更新设备库存列表的库存数量
@@ -79,8 +75,6 @@
    - [x] 3个JTextField（购买价格、供应商姓名、供应商联系方式）
    - [x] 3个JPanel
 
-<img src="C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20220605235511890.png" alt="image-20220605235511890" style="zoom:80%;" />
-
 ## 3.实现设备仓库管理界面√
 
 1. 功能需求：
@@ -93,17 +87,17 @@
    2. 1个主窗口，三个表格窗口
    3. JTabel
 
-<img src="C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20220609191628867.png" alt="image-20220609191628867" style="zoom:80%;" />
-
 ## 4.借用设备管理界面√
 
 1. 套用 设备购买系统 的界面
 
-   <img src="C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20220620161954663.png" alt="image-20220620161954663" style="zoom:80%;" />
-
 ## 5.设备报修管理界面√
 
-<img src="C:\Users\asus\AppData\Roaming\Typora\typora-user-images\image-20220620162103622.png" alt="image-20220620162103622" style="zoom:80%;" />
+## 6.CSDN博客地址
+
+1. 设计文档地址（http://t.csdn.cn/ZizyG）
+
+2. 源项目文件地址（同源博客中的资源里）
 
 
 
